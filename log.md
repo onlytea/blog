@@ -1,10 +1,18 @@
-## Memory Lab Log
+---
+title: memory lab log
+slug: memory lab log
+---
+
 A place to capture ideas, experiments, and half-finished thoughts.
 Nothing here needs to be polished - write what you remember.
 
 ---
+#### hackernews links for interesting discussion/blogs/articles
 
-#### 2026-01-22: [Github blog setup / Github blog setup]
+- [https://news.ycombinator.com/item?id=46808251](https://news.ycombinator.com/item?id=46808251)
+
+---
+#### 2026-01-22: Github blog setup
 ##### What caught my attention
 - (Quick note on why this idea seemed interesting)
 - Github pages are awesome. Free hosting. Jekyll theme rocks for simplicity, and no fuss.
